@@ -14,3 +14,4 @@
 
 > iha repo ida ne'e python utiliza hodi fasilita atu aprende programa basica sira hanesan variable, tipe data, kondisaun, looping no mos konseitu programa sira seluk ho step ba step.
 
+> **karik ita iha interese atu aprende keta haluha loke kada file karik make sure hakerek kode idak idak atu nune'e bele aprende tuir dalan**
