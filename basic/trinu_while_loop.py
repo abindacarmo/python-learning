@@ -28,7 +28,7 @@ def fo_saimenu():
 
 
 
-while True:
+while True: # durante nia TRUE executa nafatin sira ne
     fo_saimenu()
     hili_opsaun = input("hili menu: ")
 
